@@ -1,4 +1,4 @@
-**Book Store Management System**
+### Book Store Management System
 
 This software is designed to help manage inventory and sales in a bookstore. Below is a guide to understanding and using the system effectively.
 
